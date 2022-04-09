@@ -1,6 +1,5 @@
 TITLE CSC 323: Program 4 - Network Simulator      (G1P4.asm)
-; Group 1:  Hailey Maimone - mai5013@calu.edu, Ricky Peddicord - ped8697@calu.edu,
-;			Kelli Huff - huf2203@calu.edu, Daniel Nash - nas8662@calu.edu
+; Hailey Maimone - mai5013@calu.edu
 
 INCLUDE Irvine32.inc
 
